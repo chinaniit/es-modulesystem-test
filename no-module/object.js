@@ -8,4 +8,3 @@ module1.m1();
 module1._count = 5;
 
 console.log(module1);
-
